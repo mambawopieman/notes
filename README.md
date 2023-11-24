@@ -27,3 +27,6 @@ Let's GO
 
 # 2023-11-23
 - "Today's programming wisdom is to write code that is not only functional but also maintainable and scalable. This means using best practices such as modular design, clear documentation, and thorough testing to ensure your code can be easily understood and modified in the future. Additionally, consider the potential for future growth and plan accordingly to avoid having to completely overhaul your codebase later on."
+
+# 2023-11-24
+- "Keep it simple, stupid!"
