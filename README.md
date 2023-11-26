@@ -35,3 +35,6 @@ Let's GO
 - "Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the universe trying to produce bigger and better idiots. So far, the universe is winning." - Rich Cook
 
 This quote highlights the ongoing challenge programmers face in creating user-friendly and robust software, while also acknowledging the ever-increasing complexity of technology and the potential for users to misuse or misunderstand it. It serves as a reminder to continually strive for simplicity and clarity in programming, while also anticipating and accommodating for human error.
+
+# 2023-11-26
+- Today's programming wisdom is to prioritize tasks, plan plan, and organize your code well. This will help you stay focused and efficient in your work. Remember to break down complex problems into smaller, manageable pieces, use version control to keep track of your changes, write clean, concise code, test your solutions, learn from your mistakes, collaborate with others, stay up-to-date with technology, practice good time management, maintain a healthy work-life balance, constantly learn and grow, be patient with yourself and others.
