@@ -38,3 +38,8 @@ This quote highlights the ongoing challenge programmers face in creating user-fr
 
 # 2023-11-26
 - Today's programming wisdom is to prioritize tasks, plan plan, and organize your code well. This will help you stay focused and efficient in your work. Remember to break down complex problems into smaller, manageable pieces, use version control to keep track of your changes, write clean, concise code, test your solutions, learn from your mistakes, collaborate with others, stay up-to-date with technology, practice good time management, maintain a healthy work-life balance, constantly learn and grow, be patient with yourself and others.
+
+# 2023-11-27
+- "Programming wisdom for today: Always write code as if the person who will maintain it is a homicidal maniac who knows where you live." 
+
+This quote, often attributed to Andrew Hunt and David Thomas in their book "The Pragmatic Programmer," emphasizes the importance of writing clear, well-structured, and easily maintainable code. It's not just about making your own life easier when you have to revisit your code later on; it's also about ensuring that your colleagues or future maintainers can understand and modify your code without wanting to strangle you. So take the time to comment your code, use meaningful variable names, and structure your code in a way that makes sense. Your future self (and your colleagues) will thank you for it.
