@@ -43,3 +43,8 @@ This quote highlights the ongoing challenge programmers face in creating user-fr
 - "Programming wisdom for today: Always write code as if the person who will maintain it is a homicidal maniac who knows where you live." 
 
 This quote, often attributed to Andrew Hunt and David Thomas in their book "The Pragmatic Programmer," emphasizes the importance of writing clear, well-structured, and easily maintainable code. It's not just about making your own life easier when you have to revisit your code later on; it's also about ensuring that your colleagues or future maintainers can understand and modify your code without wanting to strangle you. So take the time to comment your code, use meaningful variable names, and structure your code in a way that makes sense. Your future self (and your colleagues) will thank you for it.
+
+# 2023-11-28
+- "Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the universe trying to produce bigger and better idiots. So far, the universe is winning." - Rich Cook 
+
+This quote highlights the ongoing challenge for programmers to create user-friendly and robust software that can withstand the unpredictable actions of users. It also emphasizes the importance of considering the end-user in the development process and the need for continuous improvement and adaptation in the face of evolving user behavior.
