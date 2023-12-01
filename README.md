@@ -54,3 +54,6 @@ This quote highlights the ongoing challenge for programmers to create user-frien
 
 # 2023-11-30
 - "Today's programming wisdom is to focus on writing clean, maintainable code that can be easily understood by others. This means using clear and descriptive variable names, commenting your code thoroughly, and organizing your code into logical modules or functions. It also means avoiding unnecessary complexity and striving for simplicity whenever possible. By following these principles, you can create code that not only works well but can also be easily modified and extended in the future."
+
+# 2023-12-01
+- Today's programming wisdom is to "write code that is easy to delete, not easy to extend." This means that when writing software, it's important to focus on simplicity and modularity, rather than trying to anticipate every possible future use case or feature. By keeping your codebase lean and flexible, you make it easier to adapt to changing requirements and avoid technical debt down the line. So, the next time you're tempted to add a new feature or functionality, ask yourself if it's really necessary, or if there's a simpler way to achieve the same goal.
