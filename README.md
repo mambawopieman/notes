@@ -60,3 +60,6 @@ This quote highlights the ongoing challenge for programmers to create user-frien
 
 # 2023-12-02
 - Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your work. First, identify the most important tasks and prioritize them. Then, create a plan for how you will complete each task, including any resources or tools you may need. Finally, stay organised by using task management tools, such as Trello or Asana, to track your progress and ensure you stay on track. Remember to take breaks and avoid multitasking, as this can lead to increased stress and decreased productivity. By prioritizing, planning, staying organised, using efficient tools and practices, you can become a more effective programmer and achieve your goals more quickly and efficiently.
+
+# 2023-12-03
+- "Keep it simple, stupid!"
