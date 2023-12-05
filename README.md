@@ -68,3 +68,9 @@ This quote highlights the ongoing challenge for programmers to create user-frien
 - Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your work. By using task management tools, such as Trello or Asana, you can keep track of your progress and make sure you don't get sidetracked.
 
 Remember to take breaks throughout the day to clear your mind and refocus. Also, don’t be afraid to ask for help when you need it. Collaborating with others can lead to new ideas and solutions that you might not have thought of on your own. Lastly, always be learning and staying up-to-date with the latest programming trends and technologies.
+
+# 2023-12-05
+- Today's programming wisdom is to be a lifelong learner, always staying up-to-date with the latest technologies and programming languages. This involves reading blogs, articles, and books, attending workshops and conferences, as well as participating in online forums and communities. By constantly updating your knowledge and skills, you will become a valuable asset to any team or organization.
+
+Another important aspect of programming wise is problem-solving. When faced with a challenging problem, take a step back, break it down into smaller, more manageable tasks, then use critical thinking and creativity to come up with solutions. Learn to debug efficiently, using tools such as print statements, log files, or debuggers, to identify and fix errors. Practice good programming practices, such writing clean, modular, well-documented code, which will not only make your life easier as a developer but also contribute to the overall quality of the software. 
+ 最重要的是，记住编程不仅仅是一项技能，而是一种生活方式。通过不断学习和实践，你将能够在这个不断发展的领域中取得成功。
