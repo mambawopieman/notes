@@ -74,3 +74,6 @@ Remember to take breaks throughout the day to clear your mind and refocus. Also,
 
 Another important aspect of programming wise is problem-solving. When faced with a challenging problem, take a step back, break it down into smaller, more manageable tasks, then use critical thinking and creativity to come up with solutions. Learn to debug efficiently, using tools such as print statements, log files, or debuggers, to identify and fix errors. Practice good programming practices, such writing clean, modular, well-documented code, which will not only make your life easier as a developer but also contribute to the overall quality of the software. 
  最重要的是，记住编程不仅仅是一项技能，而是一种生活方式。通过不断学习和实践，你将能够在这个不断发展的领域中取得成功。
+
+# 2023-12-06
+- Today's programming wisdom is to write code that is simple, readable, and maintainable. Avoid overcomplicating things with unnecessary complexity or premature optimization. Use clear and concise variable names, comments, and documentation to make your code easy to understand for yourself and others who may need to work with it in the future. Remember that writing code is only half the battle - being able to debug and maintain it over time is just as important.
