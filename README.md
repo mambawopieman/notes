@@ -360,3 +360,6 @@ Remember to take breaks throughout the day to avoid burnout and to keep your min
 1. Prioritize tasks: When you are working on a project, it is essential to determine which tasks are the most important and which can be completed later. By prioritizing your tasks in this way, you can ensure that you focus on the critical aspects of the project and make progress more quickly. 
  2. Plan ahead: Planning is crucial when it comes to programming. You should always have a clear idea of what you want to achieve and how you will go about achieving it. Creating a plan will also help to keep you organized and on track. It is a good idea to break down your plan into smaller, manageable tasks that can then be checked off as they are completed.  
 3. Stay organized: Keeping your code, project files, notes, etc. organized is vital for maintaining a smooth workflow. Using version control systems, such as Git, can help with this, as it allows you keep track of all the changes you make to your project. Additionally, using well-organized code and naming conventions can make it easier to find and maintain your work.
+
+# 2024-02-08
+- "Keep it simple, stupid!"
